@@ -6,7 +6,7 @@ I'm the founder and Lead Data Scientist and Developer on https://trich.ai;
 <br><br>
 
 You can visit some of my projects on:<br>
-https://kaggle.com/kabure<br>
+https://kaggle.com/kabure/notebooks<br>
 https://portfolio.trich.ai<br>
 
 Ps: Part of my content is now part incorpored by Oreilly Learning & Courses platform to they use it on their courses and books. 
