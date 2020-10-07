@@ -11,7 +11,7 @@ https://portfolio.trich.ai<br>
 
 Ps: Part of my content is now part incorpored by Oreilly Learning & Courses platform to they use it on their courses and books. 
 
-<br><br>
+<br>
 🔭 I’m currently working on Upwork Platform as TOP RATED PLUS freelancer.
 
 If you interest in contact me to work in any project, you can contact me on:<br>
