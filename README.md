@@ -1,6 +1,6 @@
 ### Accountant, Data Scientist, Kaggle Grandmaster, Python developer, Data Products and platforms specialist
 <br>
-I'm an accountant and a full-stack Data Scientist; I'm used to develop data product (dashboards with ML / explanability, power NLP softwares, and much more) as end-to-end engineer.  <br><br>
+I'm an accountant and a full-stack Data Scientist; I'm used to develop data product (dashboards with ML / explanability, powerful NLP solutions with state-of-art results, and much more) as end-to-end engineer.  <br><br>
 
 You can visit some of my projects on:<br>
 https://kaggle.com/kabure<br>
