@@ -9,10 +9,12 @@ And also, the reviews about the quality of my work on Upwork:<br>
 https://www.upwork.com/fl/leonardoferreiradasilva
 
 <br><br>
-🔭 I’m currently working on Upwork Platform as TOP RATED PLUS freelancer, you can contact me on:<br>
+🔭 I’m currently working on Upwork Platform as TOP RATED PLUS freelancer.
+
+If you interest in contact me to work in any project, you can contact me on:<br>
 <a href=https://www.upwork.com/ag/trich/> My Company profile </a> or <br>
-https://www.upwork.com/fl/leonardoferreiradasilva;<br>
-https://www.linkedin.com/in/leonardoferreirads/
+<a href=https://www.upwork.com/fl/leonardoferreiradasilva> Freelancer/Consultant Profile </a> or<br>
+<a href=https://www.linkedin.com/in/leonardoferreirads/> Linkedin profile</a>
 <br>
 
 ![](https://komarev.com/ghpvc/?username=kaburelabs)
