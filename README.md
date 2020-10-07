@@ -7,7 +7,7 @@ https://kaggle.com/kabure<br>
 https://portfolio.trich.ai<br>
 And also, the reviews about the quality of my work on Upwork:<br>
 https://www.upwork.com/fl/leonardoferreiradasilva
-<br>
+<br><br>
 🔭 I’m currently working on Upwork Platform as TOP RATED PLUS freelancer.
 
 If you interest in contact me to work in any project, you can contact me on:<br>
