@@ -2,14 +2,15 @@
 
 
 I'm an accountant and a full-stack Data Scientist; I'm used to develop data product (dashboards with ML / explanability, powerful NLP solutions with state-of-art results, and much more) as end-to-end engineer.  <br>
-I'm the founder and Lead Data Scientist and Developer on https://trich.ai
+I'm the founder and Lead Data Scientist and Developer on https://trich.ai;
 <br><br>
 
 You can visit some of my projects on:<br>
 https://kaggle.com/kabure<br>
 https://portfolio.trich.ai<br>
-And also, the reviews about the quality of my work on Upwork:<br>
-https://www.upwork.com/fl/leonardoferreiradasilva
+
+Ps: Part of my content is now part incorpored by Oreilly Learning & Courses platform to they use it on their courses and books. 
+
 <br><br>
 🔭 I’m currently working on Upwork Platform as TOP RATED PLUS freelancer.
 
