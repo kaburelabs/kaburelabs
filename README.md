@@ -1,7 +1,7 @@
 ### Accountant, Data Scientist, Kaggle Grandmaster, Python developer, Data Products and platforms specialist
 
 
-I'm an accountant and a full-stack Data Scientist; I'm used to develop data product (dashboards with ML / explanability, powerful NLP solutions with state-of-art results, and much more) as end-to-end engineer.  <br>
+I'm an accountant and a full-stack Data Scientist; I'm used to develop data product (dashboards with ML / explanability, powerful NLP solutions with state-of-art results, and much more) as end-to-end engineer.  <br><br>
 I'm the founder and Lead Data Scientist and Developer on https://trich.ai;
 <br><br>
 
