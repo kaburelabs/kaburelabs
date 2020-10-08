@@ -18,7 +18,7 @@ If you interest in contact me to work in any project, you can contact me on:<br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardoferreirads/)](https://www.linkedin.com/in/leonardoferreirads/)
 [![Upwork](https://img.shields.io/badge/-UpWork-8a37db?style=flat-square&color=green&link=https://www.upwork.com/fl/leonardoferreiradasilva)](https://www.upwork.com/fl/leonardoferreiradasilva)
 
-<br><br>
+<br>
 
 ![](https://komarev.com/ghpvc/?username=kaburelabs)
 
