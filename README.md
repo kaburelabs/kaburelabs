@@ -6,19 +6,18 @@ I'm the founder and Lead Data Scientist and Developer on https://trich.ai;
 <br><br>
 
 You can visit some of my projects on:<br>
-https://kaggle.com/kabure/notebooks<br>
-https://portfolio.trich.ai<br>
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=white&link=https://kaggle.com/kabure/notebooks)](https://kaggle.com/kabure/notebooks)
+[![Github Badge](https://img.shields.io/badge/-Portfolio-8a37db?style=flat-square&logo=Github&logoColor=white&link=https://portfolio.trich.ai)](https://portfolio.trich.ai)
 
+<br>
 Ps: Part of my content is now part incorpored by Oreilly Learning & Courses platform to they use it on their courses and books. 
 
 <br>
 🔭 I’m currently working on Upwork Platform as TOP RATED PLUS freelancer.
 
 If you interest in contact me to work in any project, you can contact me on:<br>
-<a href=https://www.upwork.com/ag/trich/> My Company profile </a> or <br>
-<a href=https://www.upwork.com/fl/leonardoferreiradasilva> Freelancer/Consultant Profile </a> or<br>
-<a href=https://www.linkedin.com/in/leonardoferreirads/> Linkedin profile</a>
-<br>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardoferreirads/)](https://www.linkedin.com/in/leonardoferreirads/)
+[![Upwork](https://img.shields.io/badge/-UpWork-8a37db?style=flat-square&color=green&link=https://www.upwork.com/fl/leonardoferreiradasilva)](https://www.upwork.com/fl/leonardoferreiradasilva)
 
 ![](https://komarev.com/ghpvc/?username=kaburelabs)
 
