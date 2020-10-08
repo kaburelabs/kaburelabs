@@ -7,8 +7,8 @@ I'm the founder and Lead Data Scientist and Developer on https://trich.ai;
 
 You can visit some of my projects on:<br>
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=white&link=https://kaggle.com/kabure/notebooks)](https://kaggle.com/kabure/notebooks)
-[![Github Badge](https://img.shields.io/badge/-Portfolio-8a37db?style=flat-square&logo=Google&logoColor=white&link=https://portfolio.trich.ai)](https://portfolio.trich.ai)
-[![Github Badge](https://img.shields.io/badge/-Github-8a37db?style=flat-square&logo=Github&logoColor=white&link=https://portfolio.trich.ai)](https://portfolio.trich.ai)
+[![Github Badge](https://img.shields.io/badge/-Portfolio-8a37db?style=flat-square&logo=Google&logoColor=red&color=white&link=https://portfolio.trich.ai)](https://portfolio.trich.ai)
+[![Github Badge](https://img.shields.io/badge/-Github-8a37db?style=flat-square&logo=Github&logoColor=white&color=black&link=https://portfolio.trich.ai)](https://portfolio.trich.ai)
 <br><br>
 Ps: Part of my content is now part incorpored by Oreilly Learning & Courses platform to they use it on their courses and books. 
 
@@ -17,7 +17,7 @@ Ps: Part of my content is now part incorpored by Oreilly Learning & Courses plat
 
 If you interest in contact me to work in any project, you can contact me on:<br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardoferreirads/)](https://www.linkedin.com/in/leonardoferreirads/)
-[![Upwork](https://img.shields.io/badge/--8a37db?style=flat-square&logo=Upwork&color=darkgrey&link=https://www.upwork.com/fl/leonardoferreiradasilva)](https://www.upwork.com/fl/leonardoferreiradasilva)
+[![Upwork](https://img.shields.io/badge/-Upwork-8a37db?style=flat-square&logo=Upwork&color=darkgrey&link=https://www.upwork.com/fl/leonardoferreiradasilva)](https://www.upwork.com/fl/leonardoferreiradasilva)
 
 <br>
 
