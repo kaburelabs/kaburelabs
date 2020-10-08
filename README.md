@@ -17,7 +17,7 @@ Ps: Part of my content is now part incorpored by Oreilly Learning & Courses plat
 
 If you interest in contact me to work in any project, you can contact me on:<br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardoferreirads/)](https://www.linkedin.com/in/leonardoferreirads/)
-[![Upwork](https://img.shields.io/badge/-Upwork-8a37db?style=flat-square&logo=Upwork&color=black&link=https://www.upwork.com/fl/leonardoferreiradasilva)](https://www.upwork.com/fl/leonardoferreiradasilva)
+[![Upwork](https://img.shields.io/badge/-Upwork-white?style=flat-square&logo=Upwork&logoColor=green&labelColor=black&color=white&link=https://www.upwork.com/fl/leonardoferreiradasilva)](https://www.upwork.com/fl/leonardoferreiradasilva)
 
 <br>
 
