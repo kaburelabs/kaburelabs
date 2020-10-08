@@ -6,7 +6,7 @@ I'm the founder and Lead Data Scientist and Developer on https://trich.ai;
 <br><br>
 
 You can visit some of my projects on:<br>
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=white&link=https://kaggle.com/kabure/notebooks)](https://kaggle.com/kabure/notebooks)
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=white&logoColor=blue&labelColor=blue&link=https://kaggle.com/kabure/notebooks)](https://kaggle.com/kabure/notebooks)
 [![Google Badge](https://img.shields.io/badge/-Portfolio-8a37db?style=flat-square&logo=Google&logoColor=white&labelColor=red&color=black&link=https://portfolio.trich.ai)](https://portfolio.trich.ai)
 [![Github Badge](https://img.shields.io/badge/-Github-8a37db?style=flat-square&logo=Github&logoColor=white&color=black&link=https://portfolio.trich.ai)](https://portfolio.trich.ai)
 <br><br>
