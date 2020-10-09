@@ -10,14 +10,12 @@ You can visit some of my projects on:<br>
 [![Google Badge](https://img.shields.io/badge/-Portfolio-8a37db?style=flat-square&logo=Google&logoColor=white&labelColor=red&color=black&link=https://portfolio.trich.ai)](https://portfolio.trich.ai)
 [![Github Badge](https://img.shields.io/badge/-Github-8a37db?style=flat-square&logo=Github&logoColor=white&color=black&link=https://github.com/kaburelabs?tab=repositories)](https://github.com/kaburelabs?tab=repositories)<br>
 <br>
-Ps: Part of my content is now part incorpored by Oreilly Learning & Courses platform to they use it on their courses and books. 
-
+Ps: Part of my content is now part incorpored by Oreilly Learning & Courses platform to they use it on their courses and books. <br>
 <br>
 🔭 I’m currently working on Upwork Platform as TOP RATED PLUS freelancer.<br>
 🌱 I’m currently learning more about Web Development (Dash and Flask) with focus in Data Products<br>
 👯 I’m looking to collaborate on Open-Source projects mainly Vaex.io and some Dash Components;<br>
 <br>
-
 📫 How to reach me: <br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&color=black&labelColor=blue&link=https://www.linkedin.com/in/leonardoferreirads/)](https://www.linkedin.com/in/leonardoferreirads/)
 [![Upwork](https://img.shields.io/badge/-Upwork-white?style=flat-square&logo=Upwork&logoColor=white&labelColor=green&color=black&link=https://www.upwork.com/fl/leonardoferreiradasilva)](https://www.upwork.com/fl/leonardoferreiradasilva)
