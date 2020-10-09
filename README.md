@@ -13,9 +13,12 @@ You can visit some of my projects on:<br>
 Ps: Part of my content is now part incorpored by Oreilly Learning & Courses platform to they use it on their courses and books. 
 
 <br>
-🔭 I’m currently working on Upwork Platform as TOP RATED PLUS freelancer.<br><br>
+🔭 I’m currently working on Upwork Platform as TOP RATED PLUS freelancer.<br>
+🌱 I’m currently learning more about Web Development (Dash and Flask) with focus in Data Products<br>
+👯 I’m looking to collaborate on Open-Source projects mainly Vaex.io and some Dash Components;
 
-If you interest in contact me to work in any project, you can contact me on:<br>
+
+📫 How to reach me: <br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&color=black&labelColor=blue&link=https://www.linkedin.com/in/leonardoferreirads/)](https://www.linkedin.com/in/leonardoferreirads/)
 [![Upwork](https://img.shields.io/badge/-Upwork-white?style=flat-square&logo=Upwork&logoColor=white&labelColor=green&color=black&link=https://www.upwork.com/fl/leonardoferreiradasilva)](https://www.upwork.com/fl/leonardoferreiradasilva)
 
