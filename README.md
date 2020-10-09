@@ -13,7 +13,7 @@ You can visit some of my projects on:<br>
 Ps: Part of my content is now part incorpored by Oreilly Learning & Courses platform to they use it on their courses and books. 
 
 <br>
-🔭 I’m currently working on Upwork Platform as TOP RATED PLUS freelancer.<br>
+🔭 I’m currently working on Upwork Platform as TOP RATED PLUS freelancer.<br><br>
 
 If you interest in contact me to work in any project, you can contact me on:<br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&color=black&labelColor=blue&link=https://www.linkedin.com/in/leonardoferreirads/)](https://www.linkedin.com/in/leonardoferreirads/)
