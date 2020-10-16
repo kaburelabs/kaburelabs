@@ -3,8 +3,8 @@
 
 I'm an accountant and a full-stack Data Scientist; I'm used to develop data product (dashboards with ML / explanability, powerful NLP solutions with state-of-art results, and much more) as end-to-end engineer.  <br><br>
 I'm the Lead Data Scientist and Python Developer on https://trich.ai;<br>
-Also, I have achieved some important marks on Data field:
-- I'm a Kaggle Notebooks Grandmaster (best ranked in 12th over more than 150k+ other data scientists)
+Also, I have reached some badges that are very important to me, like:
+- Kaggle Notebooks Grandmaster (best ranked in 12th over more than 150k+ other data scientists)
 - Top Rated Plus on Upwork (It's a badge delivered only to 1% of the professionals on this platform)
 <br>
 
