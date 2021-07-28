@@ -22,7 +22,7 @@ Part of my content is now part incorpored by Oreilly Learning & Courses platform
 <br>
 📫 How to reach me: <br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&color=black&labelColor=blue&link=https://www.linkedin.com/in/leonardoferreirads/)](https://www.linkedin.com/in/leonardoferreirads/)
-[![Upwork](https://img.shields.io/badge/-Upwork-white?style=flat-square&logo=Upwork&logoColor=white&labelColor=green&color=black&link=https://www.upwork.com/fl/leonardoferreiradasilva)](https://www.upwork.com/fl/leonardoferreiradasilva)
+[![Upwork](https://img.shields.io/badge/-Upwork-white?style=flat-square&logo=Upwork&logoColor=white&labelColor=green&color=black&link=https://www.upwork.com/freelancers/~0163c4a246540fb9a3)](https://www.upwork.com/freelancers/~0163c4a246540fb9a3)
 
 <br>
 
