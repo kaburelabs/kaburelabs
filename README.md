@@ -8,7 +8,7 @@ Also, I have achieved some badges that are very important to me, like:
 - Kaggle Notebooks Grandmaster (best ranked at 12th over more than 150k+ other data scientists, with 17 gold medals and 8 silver medals)
 - Top Rated Plus on Upwork (It's a badge delivered only to 1% of the professionals on this platform)
 <br>
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/kaburelabs/notebook/light)<br>
+[![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/kaburelabs/notebook/light)<br>
 
 You can visit some of my projects on:<br>
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=blue&labelColor=lightgrey&color=black&link=https://kaggle.com/kabure/notebooks)](https://kaggle.com/kabure/notebooks)
