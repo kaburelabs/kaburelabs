@@ -1,4 +1,4 @@
-### Data Scientist, Python Developer, Accountant and Data Platforms & Products Specialist
+### Data Scientist, Python & JS Developer, Accountant and Data visualizations & web app specialist
 
 
 I'm an accountant and a full-stack Data Scientist; I'm used to develop data product (dashboards with ML / explanability, powerful NLP solutions with state-of-art results, and much more) as end-to-end engineer.  <br><br>
