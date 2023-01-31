@@ -1,4 +1,4 @@
-### Data Scientist, Python & JS Developer, Accountant and Data visualizations & web app specialist
+### Data Scientist | Accountant | Data Visualizations & Web Apps Specialist with Python & JS Developer
 
 
 I'm an accountant and a full-stack Data Scientist; I'm used to develop data product (dashboards with ML / explanability, powerful NLP solutions with state-of-art results, and much more) as end-to-end engineer.  <br><br>
@@ -9,7 +9,6 @@ Also, I have achieved some badges that are very important to me, like:
 - Top Rated Plus on Upwork (It's a badge delivered only to 1% of the professionals on this platform)
 <br>
 
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/kabure/notebook/light)<br>
 
 You can visit some of my projects on:<br>
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=blue&labelColor=lightgrey&color=black&link=https://kaggle.com/kabure/notebooks)](https://kaggle.com/kabure/notebooks)
