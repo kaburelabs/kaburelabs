@@ -1,8 +1,9 @@
 ### Data Scientist | Accountant | Data Visualizations & Web Apps Specialist with Python & JS Developer
 
+# Looking for long-term projects
 
 I'm an accountant and a full-stack Data Scientist; I'm used to develop data product (dashboards with ML / explanability, powerful NLP solutions with state-of-art results, and much more) as end-to-end engineer.  <br><br>
-I'm the Lead Data Scientist and Python Developer on https://trich.ai;<br>
+I'm the Lead Data Scientist and Python Developer on https://portfolio.trich.xyz<br>
 Also, I have achieved some badges that are very important to me, like:
 - I'm the Technical reviewer of the first Ploty Dash book released by Packt - [Link to the book](https://www.packtpub.com/product/interactive-dashboards-and-data-apps-with-plotly-and-dash/9781800568914)
 - Kaggle Notebooks Grandmaster (best ranked at 12th over more than 150k+ other data scientists, with 17 gold medals and 8 silver medals)
