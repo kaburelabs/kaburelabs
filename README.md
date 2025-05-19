@@ -16,7 +16,7 @@ Also, I have achieved some badges that are very important to me, like:
 
 You can visit some of my projects on:<br>
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=blue&labelColor=lightgrey&color=black&link=https://kaggle.com/kabure/notebooks)](https://kaggle.com/kabure/notebooks)
-[![Google Badge](https://img.shields.io/badge/-Portfolio-8a37db?style=flat-square&logo=Google&logoColor=white&labelColor=red&color=black&link=https://portfolio.trich.ai)](https://portfolio.trich.ai)
+[![Google Badge](https://img.shields.io/badge/-Portfolio-8a37db?style=flat-square&logo=Google&logoColor=white&labelColor=red&color=black&link=https://portfolio.trich.ai)](https://portfolio.trich.xyz)
 [![Github Badge](https://img.shields.io/badge/-Github-8a37db?style=flat-square&logo=Github&logoColor=white&color=black&link=https://github.com/kaburelabs?tab=repositories)](https://github.com/kaburelabs?tab=repositories)<br>
 <br>
 Part of my content is now part incorpored by Oreilly Learning & Courses platform to they use it on their courses and books. <br>
