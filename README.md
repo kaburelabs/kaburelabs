@@ -1,15 +1,14 @@
 ### Data Scientist | Accountant | Data Visualizations & Web Apps Specialist with Python & JS Developer
 
-# Looking for long-term projects
+## - Looking for long-term projects as full-stack developer (data, backend, frontend, scripts) - focused on problem-solving
 
-I'm an accountant and a full-stack Data Scientist; I'm used to develop data product (dashboards with ML / explanability, powerful NLP solutions with state-of-art results, and much more) as end-to-end engineer.  <br><br>
+I'm an accountant, Data Scientist & Full-stack Web developer; I'm used to develop data web apps from scratch (dashboards for data visualization, predictive models, retrieve, update and show informations to support commercial/management fields, web apps powered by GenAI/RAG and much more ) as end-to-end engineer.  <br><br>
 I'm the Lead Data Scientist and Python Developer on https://portfolio.trich.xyz<br>
 Also, I have achieved some badges that are very important to me, like:
-- I'm the Technical reviewer of the first Ploty Dash book released by Packt - [Link to the book](https://www.packtpub.com/product/interactive-dashboards-and-data-apps-with-plotly-and-dash/9781800568914)
-- Kaggle Notebooks Grandmaster (best ranked at 12th over more than 150k+ other data scientists, with 17 gold medals and 8 silver medals)
-- Top Rated Plus on Upwork (It's a badge delivered only to 1% of the professionals on this platform)
+- *Top Rated Plus* (badge delivered only to top 1%) & Expert-Vetted on *Upwork*| 45+ projects (41 completed) | 100% job success score
+- First to achieve *Kaggle Notebooks Grandmaster* (best ranked at 12th over more than 150k+ other data scientists, with 17 gold medals and 8 silver medals)
+- I'm the *Technical reviewer* of the first *Ploty Dash book* released by Packt - [Link to the book](https://www.packtpub.com/product/interactive-dashboards-and-data-apps-with-plotly-and-dash/9781800568914)
 <br>
-
 
 You can visit some of my projects on:<br>
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=blue&labelColor=lightgrey&color=black&link=https://kaggle.com/kabure/notebooks)](https://kaggle.com/kabure/notebooks)
