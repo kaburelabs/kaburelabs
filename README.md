@@ -1,13 +1,17 @@
 ### Data Scientist | Accountant | Data Visualizations & Web Apps Specialist with Python & JS Developer
 
-## - Looking for long-term projects as full-stack developer (data, backend, frontend, scripts) - focused on problem-solving
+### If you're interested in hiring a hands-on developer focused on problem-solving, do not hesitate in reaching out to me 
 
-I'm an accountant, Data Scientist & Full-stack Web developer; I'm used to develop data web apps from scratch (dashboards for data visualization, predictive models, retrieve, update and show informations to support commercial/management fields, web apps powered by GenAI/RAG and much more ) as end-to-end engineer.  <br><br>
+I'm an accountant, Data Scientist & Full-stack web developer; <br>
+
+I'm used to developing data web apps from scratch (dashboards for data visualization, predictive models, retrieve, update and show information to support commercial/management fields, web apps powered by GenAI/RAG and much more ) as end-to-end engineer.  <br>
+
 I'm the Lead Data Scientist and Python Developer on https://portfolio.trich.xyz<br>
+
 Also, I have achieved some badges that are very important to me, like:
-- *Top Rated Plus* (badge delivered only to top 1%) & Expert-Vetted on *Upwork*| 45+ projects (41 completed) | 100% job success score
-- First to achieve *Kaggle Notebooks Grandmaster* (best ranked at 12th over more than 150k+ other data scientists, with 17 gold medals and 8 silver medals)
-- I'm the *Technical reviewer* of the first *Ploty Dash book* released by Packt - [Link to the book](https://www.packtpub.com/product/interactive-dashboards-and-data-apps-with-plotly-and-dash/9781800568914)
+- <b>Top Rated Plus</b> (badge delivered only to top 1%) & <b>Expert-Vetted on Upwork </b>| 45+ projects (41 completed) | 100% job success score
+- First to achieve <b>Kaggle Notebooks Grandmaster</b> (best ranked at 12th over more than 150k+ other data scientists, with 17 gold medals and 8 silver medals)
+- I'm the <b>Technical reviewer</b> of the first <b>Ploty Dash book</b> released by Packt - [Link to the book](https://www.packtpub.com/product/interactive-dashboards-and-data-apps-with-plotly-and-dash/9781800568914)
 <br>
 
 You can visit some of my projects on:<br>
