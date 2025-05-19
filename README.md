@@ -1,18 +1,21 @@
-### Data Scientist | Accountant | Data Visualizations & Web Apps Specialist with Python & JS Developer
+## **Data Scientist | Full-Stack Developer | Data Visualization & AI Specialist**  
 
-### If you're interested in hiring a hands-on developer focused on problem-solving, do not hesitate in reaching out to me 
+### **Problem-solving developer with expertise in Python, JavaScript, and data-driven applications**  
 
-I'm an accountant, Data Scientist & Full-stack web developer; <br>
+If you're looking for a hands-on developer who bridges data science and full-stack engineering, let's connect!  
 
-I'm used to developing data web apps from scratch (dashboards for data visualization, predictive models, retrieve, update and show information to support commercial/management fields, web apps powered by GenAI/RAG and much more ) as end-to-end engineer.  <br>
+## **About Me**  
+I build **end-to-end data applications**, including:  
+- Interactive dashboards & business intelligence tools  *(Pandas, Numpy, Plotly Dash, React.JS, Node.js, FastAPI, express.js, Next.js, etc.)*
+- Predictive models & AI-powered solutions (mainly RAGs)  *(Scikit-learn,  Pytorch, TensorFlow, Langchain, crewAI, etc.)*
+- Scalable web apps for data retrieval, processing, and visualizations *(MongoDB, fastAPI, Plotly, React.JS, pandas, etc.)*
 
-I'm the Lead Data Scientist and Python Developer on https://portfolio.trich.xyz<br>
+As **Lead Data Scientist & Python Developer** at [Trich Analytics](https://portfolio.trich.xyz), I deliver robust solutions for commercial and management use cases.  
 
-Also, I have achieved some badges that are very important to me, like:
-- <b>Top Rated Plus</b> (badge delivered only to top 1%) & <b>Expert-Vetted on Upwork</b> | <b>45+ Projects</b> (41 completed) | <b>100% JSS</b> (Job Success Score)
-- First to achieve <b>Kaggle Notebooks Grandmaster</b> (best ranked at 12th over more than 150k+ other data scientists, with 17 gold medals and 8 silver medals)
-- I'm the <b>Technical reviewer</b> of the first <b>Ploty Dash book</b> released by Packt - [Link to the book](https://www.packtpub.com/product/interactive-dashboards-and-data-apps-with-plotly-and-dash/9781800568914)
-<br>
+## **Key Achievements**  
+- **Top 1% on Upwork**: Expert-Vetted & Top Rated Plus (45+ projects, 100% Job Success Score, 30+ clients public feedback/review)  
+- **Kaggle Grandmaster (Notebooks)**: Best Ranked at **#12 globally** (17 gold, 8 silver medals) among 150K+ competitors  
+- **Technical Reviewer** for Packt’s *[Interactive Dashboards with Plotly & Dash](https://www.packtpub.com/product/interactive-dashboards-and-data-apps-with-plotly-and-dash/9781800568914)* <br>
 
 You can visit some of my projects on:<br>
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=blue&labelColor=lightgrey&color=black&link=https://kaggle.com/kabure/notebooks)](https://kaggle.com/kabure/notebooks)
