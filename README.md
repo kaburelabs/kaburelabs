@@ -9,7 +9,7 @@ I'm used to developing data web apps from scratch (dashboards for data visualiza
 I'm the Lead Data Scientist and Python Developer on https://portfolio.trich.xyz<br>
 
 Also, I have achieved some badges that are very important to me, like:
-- <b>Top Rated Plus</b> (badge delivered only to top 1%) & <b>Expert-Vetted on Upwork </b>| 45+ projects (41 completed) | 100% job success score
+- <b>Top Rated Plus</b> (badge delivered only to top 1%) & <b>Expert-Vetted on Upwork</b> | <b>45+ Projects</b> (41 completed) | <b>100% JSS</b> (Job Success Score)
 - First to achieve <b>Kaggle Notebooks Grandmaster</b> (best ranked at 12th over more than 150k+ other data scientists, with 17 gold medals and 8 silver medals)
 - I'm the <b>Technical reviewer</b> of the first <b>Ploty Dash book</b> released by Packt - [Link to the book](https://www.packtpub.com/product/interactive-dashboards-and-data-apps-with-plotly-and-dash/9781800568914)
 <br>
